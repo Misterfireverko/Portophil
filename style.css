@@ -1,11 +1,11 @@
 body {
     font-family: sans-serif;
-    background-image: linear-gradient(to right,violet,gold,blue,white);
-}
+  background-image: linear-gradient(to right,green,gold,blue,red)
+  ;}  
 
 header{
     height:200px;
-    display: flex;
+    display: block;
     
     }
 
